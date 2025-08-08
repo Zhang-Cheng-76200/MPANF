@@ -11,7 +11,7 @@ Key features:
 - Applicable to out-of-sample evaluation.
 - Supported by both **theoretical analysis** and **empirical experiments**.
 
-If you use this code, please cite our work (see [Citation](#citation)).
+📄 **Read the paper on arXiv:** [https://doi.org/10.48550/arXiv.2406.14469]
 
 ---
 
@@ -26,3 +26,4 @@ If you use this code, please cite our work (see [Citation](#citation)).
 Install the dependencies:
 ```bash
 pip install -r requirements.txt
+
